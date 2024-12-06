@@ -85,28 +85,19 @@ experiences:
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects in this
-      section.
     assignments:
       - title: Template
         link: "#template1"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#template2"
-        tagline: "Description"
+        tagline: "None"
 
 oss:
     title: OSS Contributions
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Open Source Projects I have worked on.
     contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Language Parser for Atom
+        link: "https://github.com/yoyosef/language-wdl"
+        tagline: "This parser was developed for WDL (Workflow Description Language), which was used to define workflows in the laboratory at BWH. The grammar was specified using lambda expressions, and the parser was generated with Tree-sitter, an open-source project."
 
 
 footer: >
