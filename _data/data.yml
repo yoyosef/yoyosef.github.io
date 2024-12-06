@@ -109,16 +109,5 @@ oss:
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
 
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Python
-
-      - name: Javascript & jQuery
-
-      - name: Angular
-
-
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
